@@ -19,3 +19,7 @@ Set1 = {"green", "blue"}
 Set2 = {"blue", "yellow"}
 print(Set1 & Set2)
 print(Set1 | Set2)
+
+details = ("Enrico", "Efendi", 14, "54kg", "Mathematics")
+list = list(details)
+print(list)
